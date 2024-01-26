@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="login_button_text">Login</string>
+    <string name="login_label">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
